@@ -46,3 +46,6 @@ The dataset used in this project is the **Titanic dataset** available in the Sea
 import seaborn as sns
 
 df = sns.load_dataset("titanic")
+
+
+
